@@ -1,0 +1,16 @@
+{
+  "name": "js-snippets",
+  "version": "1.0.0",
+  "description": "A collection of snippets from across the internet to do tasks.",
+  "author": {
+    "name": "Harshdeep Singh Hura",
+    "url": "https://harshdeephura.com"
+  },
+  "scripts": {
+    "pretty": "prettier --write ./"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}

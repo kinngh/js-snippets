@@ -20,6 +20,7 @@ function waitForElementToExist(selector) {
 
 // Usage
 
-waitForElementToExist(".className").then((ele) => { //Class name needs to start with a `.`
+waitForElementToExist(".className").then((ele) => {
+  //Class name needs to start with a `.`
   alert("Element now exists!", ele);
 });

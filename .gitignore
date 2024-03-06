@@ -1,0 +1,14 @@
+.DS_Store
+package-lock.json
+bun.lockb
+node_modules
+.env
+.env.*
+database/
+/coverage
+/out/
+/build
+/client
+*.pem
+.vercel
+.heura
