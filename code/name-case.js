@@ -102,3 +102,10 @@ function applySonOrDaughterOfRules(localString) {
   });
   return localString;
 }
+
+// Usage
+
+const name1 = "harshdeep";
+const name2 = "mcharshdeep";
+console.log(nameCase(name1), nameCase(name2));
+//Harshdeep, McHarshdeep
