@@ -9,3 +9,4 @@ A collection of snippets from across the internet to do tasks.
 - [Name case](./code/name-case.js): Convert text to name and format it.
 - [Task Queue](./code/task-queue.js): A promise based queue system with 0 dependencies.
 - [Add weeks](./code/add-weeks.js): Gets current date and adds `n` weeks to it and replies back with `DD-Month-YYYY`
+- [Currency Code to Symbol](./code/currencyCodeToSymbol.js): Pass a 3 digit currency code to get currency symbol.
